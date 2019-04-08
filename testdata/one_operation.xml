@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-history>
+    <search>
+        <account>70000001022180443456092212</account>
+        <date since='2000-01-01' to='2000-01-01'/>
+        <filtering>Wszystkie</filtering>
+    </search>
+    <operations>
+        <operation>
+            <exec-date>2000-01-01</exec-date>
+            <order-date>2000-01-01</order-date>
+            <type>Płatność kartą</type>
+            <description>Dummy description
+            </description>
+            <amount curr='PLN'>-1.00</amount>
+            <ending-balance curr='PLN'>+1.00</ending-balance>
+        </operation>
+    </operations>
+</account-history>
